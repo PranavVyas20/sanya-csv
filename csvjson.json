@@ -1,0 +1,402 @@
+[
+  {
+    "pos": 78,
+    "ref": "A",
+    "alt": "G",
+    "location": "Vietnam",
+    "counts": 12,
+    "gene": "5'UTR"
+  },
+  {
+    "pos": 111,
+    "ref": "G",
+    "alt": "A",
+    "location": "Vietnam",
+    "counts": 5,
+    "gene": "Capsid protein C"
+  },
+  {
+    "pos": 126,
+    "ref": "C",
+    "alt": "T",
+    "location": "Vietnam",
+    "counts": 14,
+    "gene": "Capsid protein C"
+  },
+  {
+    "pos": 348,
+    "ref": "C",
+    "alt": "T",
+    "location": "Puerto_Rico",
+    "counts": 18,
+    "gene": "Capsid protein C"
+  },
+  {
+    "pos": 366,
+    "ref": "G",
+    "alt": "A",
+    "location": "Thailand",
+    "counts": 13,
+    "gene": "Capsid protein C"
+  },
+  {
+    "pos": 401,
+    "ref": "C",
+    "alt": "T",
+    "location": "Thailand",
+    "counts": 22,
+    "gene": "membrane glycoprotein precursor prM"
+  },
+  {
+    "pos": 1422,
+    "ref": "C",
+    "alt": "T",
+    "location": "Singapore",
+    "counts": 7,
+    "gene": "envelop protein E"
+  },
+  {
+    "pos": 1683,
+    "ref": "T",
+    "alt": "C",
+    "location": "Vietnam",
+    "counts": 10,
+    "gene": "envelop protein E"
+  },
+  {
+    "pos": 1978,
+    "ref": "T",
+    "alt": "C",
+    "location": "India",
+    "counts": 5,
+    "gene": "envelop protein E"
+  },
+  {
+    "pos": 2238,
+    "ref": "G",
+    "alt": "A",
+    "location": "Vietnam",
+    "counts": 5,
+    "gene": "envelop protein E"
+  },
+  {
+    "pos": 2286,
+    "ref": "G",
+    "alt": "T",
+    "location": "Thailand",
+    "counts": 7,
+    "gene": "envelop protein E"
+  },
+  {
+    "pos": 2427,
+    "ref": "T",
+    "alt": "C",
+    "location": "Thailand",
+    "counts": 8,
+    "gene": "NS1"
+  },
+  {
+    "pos": 2482,
+    "ref": "A",
+    "alt": "G",
+    "location": "Vietnam",
+    "counts": 5,
+    "gene": "NS1"
+  },
+  {
+    "pos": 2514,
+    "ref": "A",
+    "alt": "G",
+    "location": "Vietnam",
+    "counts": 12,
+    "gene": "NS1"
+  },
+  {
+    "pos": 2526,
+    "ref": "A",
+    "alt": "G",
+    "location": "Vietnam",
+    "counts": 8,
+    "gene": "NS1"
+  },
+  {
+    "pos": 2659,
+    "ref": "T",
+    "alt": "G",
+    "location": "Thailand",
+    "counts": 13,
+    "gene": "NS1"
+  },
+  {
+    "pos": 3018,
+    "ref": "T",
+    "alt": "C",
+    "location": "Vietnam",
+    "counts": 30,
+    "gene": "NS1"
+  },
+  {
+    "pos": 3387,
+    "ref": "A",
+    "alt": "G",
+    "location": "China",
+    "counts": 5,
+    "gene": "NS1"
+  },
+  {
+    "pos": 3548,
+    "ref": "G",
+    "alt": "A",
+    "location": "Vietnam",
+    "counts": 7,
+    "gene": "NS2A"
+  },
+  {
+    "pos": 3552,
+    "ref": "C",
+    "alt": "A",
+    "location": "Vietnam",
+    "counts": 5,
+    "gene": "NS2A"
+  },
+  {
+    "pos": 4482,
+    "ref": "G",
+    "alt": "A",
+    "location": "Thailand",
+    "counts": 13,
+    "gene": "NS2B"
+  },
+  {
+    "pos": 4629,
+    "ref": "C",
+    "alt": "T",
+    "location": "Cambodia",
+    "counts": 5,
+    "gene": "NS3"
+  },
+  {
+    "pos": 5460,
+    "ref": "T",
+    "alt": "C",
+    "location": "Thailand",
+    "counts": 6,
+    "gene": "NS4"
+  },
+  {
+    "pos": 5763,
+    "ref": "T",
+    "alt": "A",
+    "location": "Thailand",
+    "counts": 6,
+    "gene": "NS5"
+  },
+  {
+    "pos": 6203,
+    "ref": "G",
+    "alt": "A",
+    "location": "Brazil",
+    "counts": 27,
+    "gene": "NS6"
+  },
+  {
+    "pos": 6570,
+    "ref": "G",
+    "alt": "A",
+    "location": "Vietnam",
+    "counts": 10,
+    "gene": "NS4A"
+  },
+  {
+    "pos": 6710,
+    "ref": "A",
+    "alt": "T",
+    "location": "Thailand",
+    "counts": 7,
+    "gene": "NS4A"
+  },
+  {
+    "pos": 7097,
+    "ref": "T",
+    "alt": "C",
+    "location": "Thailand",
+    "counts": 13,
+    "gene": "NS4B"
+  },
+  {
+    "pos": 7107,
+    "ref": "C",
+    "alt": "T",
+    "location": "Vietnam",
+    "counts": 30,
+    "gene": "NS4B"
+  },
+  {
+    "pos": 7332,
+    "ref": "A",
+    "alt": "G",
+    "location": "Nepal",
+    "counts": 20,
+    "gene": "NS4B"
+  },
+  {
+    "pos": 7344,
+    "ref": "C",
+    "alt": "A",
+    "location": "Vietnam",
+    "counts": 10,
+    "gene": "NS4B"
+  },
+  {
+    "pos": 7371,
+    "ref": "G",
+    "alt": "A",
+    "location": "Puerto_Rico",
+    "counts": 76,
+    "gene": "NS4B"
+  },
+  {
+    "pos": 7674,
+    "ref": "A",
+    "alt": "G",
+    "location": "Thailand",
+    "counts": 13,
+    "gene": "NS5"
+  },
+  {
+    "pos": 7743,
+    "ref": "C",
+    "alt": "T",
+    "location": "Thailand",
+    "counts": 5,
+    "gene": "NS6"
+  },
+  {
+    "pos": 7746,
+    "ref": "A",
+    "alt": "G",
+    "location": "Vietnam",
+    "counts": 12,
+    "gene": "NS7"
+  },
+  {
+    "pos": 7959,
+    "ref": "T",
+    "alt": "C",
+    "location": "Thailand",
+    "counts": 5,
+    "gene": "NS8"
+  },
+  {
+    "pos": 8103,
+    "ref": "T",
+    "alt": "C",
+    "location": "China",
+    "counts": 8,
+    "gene": "NS9"
+  },
+  {
+    "pos": 8425,
+    "ref": "C",
+    "alt": "G",
+    "location": "China",
+    "counts": 5,
+    "gene": "NS10"
+  },
+  {
+    "pos": 8493,
+    "ref": "C",
+    "alt": "T",
+    "location": "Vietnam",
+    "counts": 12,
+    "gene": "NS11"
+  },
+  {
+    "pos": 8814,
+    "ref": "T",
+    "alt": "C",
+    "location": "Cambodia",
+    "counts": 5,
+    "gene": "NS12"
+  },
+  {
+    "pos": 8869,
+    "ref": "C",
+    "alt": "T",
+    "location": "Vietnam",
+    "counts": 5,
+    "gene": "NS13"
+  },
+  {
+    "pos": 9117,
+    "ref": "T",
+    "alt": "C",
+    "location": "Vietnam",
+    "counts": 9,
+    "gene": "NS14"
+  },
+  {
+    "pos": 9534,
+    "ref": "A",
+    "alt": "G",
+    "location": "Thailand",
+    "counts": 5,
+    "gene": "NS15"
+  },
+  {
+    "pos": 9774,
+    "ref": "T",
+    "alt": "C",
+    "location": "Vietnam",
+    "counts": 14,
+    "gene": "NS16"
+  },
+  {
+    "pos": 9819,
+    "ref": "G",
+    "alt": "A",
+    "location": "Vietnam",
+    "counts": 10,
+    "gene": "NS17"
+  },
+  {
+    "pos": 10523,
+    "ref": "A",
+    "alt": "G",
+    "location": "Vietnam",
+    "counts": 9,
+    "gene": "3'UTR"
+  },
+  {
+    "pos": 10553,
+    "ref": "C",
+    "alt": "T",
+    "location": "Malaysia",
+    "counts": 8,
+    "gene": "3'UTR"
+  },
+  {
+    "pos": 10608,
+    "ref": "A",
+    "alt": "T",
+    "location": "Vietnam",
+    "counts": 6,
+    "gene": "3'UTR"
+  },
+  {
+    "pos": 10612,
+    "ref": "A",
+    "alt": "T",
+    "location": "Vietnam",
+    "counts": 6,
+    "gene": "3'UTR"
+  },
+  {
+    "pos": 10671,
+    "ref": "T",
+    "alt": "C",
+    "location": "China",
+    "counts": 10,
+    "gene": "3'UTR"
+  }
+]
