@@ -1,0 +1,51 @@
+pos	ref	alt	location	counts	gene
+78	A	G	Vietnam	12	5'UTR
+111	G	A	Vietnam	5	Capsid protein C
+126	C	T	Vietnam	14	Capsid protein C
+348	C	T	Puerto_Rico	18	Capsid protein C
+366	G	A	Thailand	13	Capsid protein C
+401	C	T	Thailand	22	membrane glycoprotein precursor prM
+1422	C	T	Singapore	7	envelop protein E
+1683	T	C	Vietnam	10	envelop protein E
+1978	T	C	India	5	envelop protein E
+2238	G	A	Vietnam	5	envelop protein E
+2286	G	T	Thailand	7	envelop protein E
+2427	T	C	Thailand	8	NS1
+2482	A	G	Vietnam	5	NS1
+2514	A	G	Vietnam	12	NS1
+2526	A	G	Vietnam	8	NS1
+2659	T	G	Thailand	13	NS1
+3018	T	C	Vietnam	30	NS1
+3387	A	G	China	5	NS1
+3548	G	A	Vietnam	7	NS2A
+3552	C	A	Vietnam	5	NS2A
+4482	G	A	Thailand	13	NS2B
+4629	C	T	Cambodia	5	NS3
+5460	T	C	Thailand	6	NS4
+5763	T	A	Thailand	6	NS5
+6203	G	A	Brazil	27	NS6
+6570	G	A	Vietnam	10	NS4A
+6710	A	T	Thailand	7	NS4A
+7097	T	C	Thailand	13	NS4B
+7107	C	T	Vietnam	30	NS4B
+7332	A	G	Nepal	20	NS4B
+7344	C	A	Vietnam	10	NS4B
+7371	G	A	Puerto_Rico	76	NS4B
+7674	A	G	Thailand	13	NS5
+7743	C	T	Thailand	5	NS6
+7746	A	G	Vietnam	12	NS7
+7959	T	C	Thailand	5	NS8
+8103	T	C	China	8	NS9
+8425	C	G	China	5	NS10
+8493	C	T	Vietnam	12	NS11
+8814	T	C	Cambodia	5	NS12
+8869	C	T	Vietnam	5	NS13
+9117	T	C	Vietnam	9	NS14
+9534	A	G	Thailand	5	NS15
+9774	T	C	Vietnam	14	NS16
+9819	G	A	Vietnam	10	NS17
+10523	A	G	Vietnam	9	3'UTR
+10553	C	T	Malaysia	8	3'UTR
+10608	A	T	Vietnam	6	3'UTR
+10612	A	T	Vietnam	6	3'UTR
+10671	T	C	China	10	3'UTR
